@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "S4bU61X0CnU+IajCniZZtgVTzACrPk7vIJYLO4TalA0=",
+  "Source": "EmployeeLeavesManagement",
+  "BasePath": "_content/EmployeeLeavesManagement",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

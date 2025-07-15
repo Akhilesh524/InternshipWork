@@ -1,0 +1,441 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Projects\\EmployeeLeavesManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F912B840-8BC3-4EC0-AC94-9138C0E75A0B}|EmployeeLeavesManagement\\EmployeeLeavesManagement.csproj|e:\\projects\\employeeleavesmanagement\\employeeleavesmanagement\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F912B840-8BC3-4EC0-AC94-9138C0E75A0B}|EmployeeLeavesManagement\\EmployeeLeavesManagement.csproj|solutionrelative:employeeleavesmanagement\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F912B840-8BC3-4EC0-AC94-9138C0E75A0B}|EmployeeLeavesManagement\\EmployeeLeavesManagement.csproj|e:\\projects\\employeeleavesmanagement\\employeeleavesmanagement\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F912B840-8BC3-4EC0-AC94-9138C0E75A0B}|EmployeeLeavesManagement\\EmployeeLeavesManagement.csproj|solutionrelative:employeeleavesmanagement\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F912B840-8BC3-4EC0-AC94-9138C0E75A0B}|EmployeeLeavesManagement\\EmployeeLeavesManagement.csproj|e:\\projects\\employeeleavesmanagement\\employeeleavesmanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F912B840-8BC3-4EC0-AC94-9138C0E75A0B}|EmployeeLeavesManagement\\EmployeeLeavesManagement.csproj|solutionrelative:employeeleavesmanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F912B840-8BC3-4EC0-AC94-9138C0E75A0B}|EmployeeLeavesManagement\\EmployeeLeavesManagement.csproj|e:\\projects\\employeeleavesmanagement\\employeeleavesmanagement\\mappingprofiles\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F912B840-8BC3-4EC0-AC94-9138C0E75A0B}|EmployeeLeavesManagement\\EmployeeLeavesManagement.csproj|solutionrelative:employeeleavesmanagement\\mappingprofiles\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F912B840-8BC3-4EC0-AC94-9138C0E75A0B}|EmployeeLeavesManagement\\EmployeeLeavesManagement.csproj|e:\\projects\\employeeleavesmanagement\\employeeleavesmanagement\\manager\\employeemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F912B840-8BC3-4EC0-AC94-9138C0E75A0B}|EmployeeLeavesManagement\\EmployeeLeavesManagement.csproj|solutionrelative:employeeleavesmanagement\\manager\\employeemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F912B840-8BC3-4EC0-AC94-9138C0E75A0B}|EmployeeLeavesManagement\\EmployeeLeavesManagement.csproj|e:\\projects\\employeeleavesmanagement\\employeeleavesmanagement\\manager\\leavetypesmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F912B840-8BC3-4EC0-AC94-9138C0E75A0B}|EmployeeLeavesManagement\\EmployeeLeavesManagement.csproj|solutionrelative:employeeleavesmanagement\\manager\\leavetypesmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F912B840-8BC3-4EC0-AC94-9138C0E75A0B}|EmployeeLeavesManagement\\EmployeeLeavesManagement.csproj|e:\\projects\\employeeleavesmanagement\\employeeleavesmanagement\\manager\\leaverequestsmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F912B840-8BC3-4EC0-AC94-9138C0E75A0B}|EmployeeLeavesManagement\\EmployeeLeavesManagement.csproj|solutionrelative:employeeleavesmanagement\\manager\\leaverequestsmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96D31427-5066-46C0-8F08-73AAF3A4F017}|ClassLibrary1\\EmployeeLeavesManagement.Persistence.csproj|e:\\projects\\employeeleavesmanagement\\classlibrary1\\entities\\leavetypesentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96D31427-5066-46C0-8F08-73AAF3A4F017}|ClassLibrary1\\EmployeeLeavesManagement.Persistence.csproj|solutionrelative:classlibrary1\\entities\\leavetypesentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F912B840-8BC3-4EC0-AC94-9138C0E75A0B}|EmployeeLeavesManagement\\EmployeeLeavesManagement.csproj|e:\\projects\\employeeleavesmanagement\\employeeleavesmanagement\\manager\\iemployeemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F912B840-8BC3-4EC0-AC94-9138C0E75A0B}|EmployeeLeavesManagement\\EmployeeLeavesManagement.csproj|solutionrelative:employeeleavesmanagement\\manager\\iemployeemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F912B840-8BC3-4EC0-AC94-9138C0E75A0B}|EmployeeLeavesManagement\\EmployeeLeavesManagement.csproj|e:\\projects\\employeeleavesmanagement\\employeeleavesmanagement\\dto\\loginrequests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F912B840-8BC3-4EC0-AC94-9138C0E75A0B}|EmployeeLeavesManagement\\EmployeeLeavesManagement.csproj|solutionrelative:employeeleavesmanagement\\dto\\loginrequests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F912B840-8BC3-4EC0-AC94-9138C0E75A0B}|EmployeeLeavesManagement\\EmployeeLeavesManagement.csproj|e:\\projects\\employeeleavesmanagement\\employeeleavesmanagement\\dto\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F912B840-8BC3-4EC0-AC94-9138C0E75A0B}|EmployeeLeavesManagement\\EmployeeLeavesManagement.csproj|solutionrelative:employeeleavesmanagement\\dto\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96D31427-5066-46C0-8F08-73AAF3A4F017}|ClassLibrary1\\EmployeeLeavesManagement.Persistence.csproj|e:\\projects\\employeeleavesmanagement\\classlibrary1\\employeeleavesdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96D31427-5066-46C0-8F08-73AAF3A4F017}|ClassLibrary1\\EmployeeLeavesManagement.Persistence.csproj|solutionrelative:classlibrary1\\employeeleavesdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F912B840-8BC3-4EC0-AC94-9138C0E75A0B}|EmployeeLeavesManagement\\EmployeeLeavesManagement.csproj|e:\\projects\\employeeleavesmanagement\\employeeleavesmanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F912B840-8BC3-4EC0-AC94-9138C0E75A0B}|EmployeeLeavesManagement\\EmployeeLeavesManagement.csproj|solutionrelative:employeeleavesmanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96D31427-5066-46C0-8F08-73AAF3A4F017}|ClassLibrary1\\EmployeeLeavesManagement.Persistence.csproj|e:\\projects\\employeeleavesmanagement\\classlibrary1\\entities\\leaverequestsentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96D31427-5066-46C0-8F08-73AAF3A4F017}|ClassLibrary1\\EmployeeLeavesManagement.Persistence.csproj|solutionrelative:classlibrary1\\entities\\leaverequestsentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96D31427-5066-46C0-8F08-73AAF3A4F017}|ClassLibrary1\\EmployeeLeavesManagement.Persistence.csproj|e:\\projects\\employeeleavesmanagement\\classlibrary1\\entities\\employeeentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96D31427-5066-46C0-8F08-73AAF3A4F017}|ClassLibrary1\\EmployeeLeavesManagement.Persistence.csproj|solutionrelative:classlibrary1\\entities\\employeeentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F912B840-8BC3-4EC0-AC94-9138C0E75A0B}|EmployeeLeavesManagement\\EmployeeLeavesManagement.csproj|e:\\projects\\employeeleavesmanagement\\employeeleavesmanagement\\dto\\leavetypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F912B840-8BC3-4EC0-AC94-9138C0E75A0B}|EmployeeLeavesManagement\\EmployeeLeavesManagement.csproj|solutionrelative:employeeleavesmanagement\\dto\\leavetypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F912B840-8BC3-4EC0-AC94-9138C0E75A0B}|EmployeeLeavesManagement\\EmployeeLeavesManagement.csproj|e:\\projects\\employeeleavesmanagement\\employeeleavesmanagement\\controllers\\leavetypescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F912B840-8BC3-4EC0-AC94-9138C0E75A0B}|EmployeeLeavesManagement\\EmployeeLeavesManagement.csproj|solutionrelative:employeeleavesmanagement\\controllers\\leavetypescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F912B840-8BC3-4EC0-AC94-9138C0E75A0B}|EmployeeLeavesManagement\\EmployeeLeavesManagement.csproj|e:\\projects\\employeeleavesmanagement\\employeeleavesmanagement\\controllers\\leaverequestscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F912B840-8BC3-4EC0-AC94-9138C0E75A0B}|EmployeeLeavesManagement\\EmployeeLeavesManagement.csproj|solutionrelative:employeeleavesmanagement\\controllers\\leaverequestscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F912B840-8BC3-4EC0-AC94-9138C0E75A0B}|EmployeeLeavesManagement\\EmployeeLeavesManagement.csproj|e:\\projects\\employeeleavesmanagement\\employeeleavesmanagement\\manager\\ileaverequestsmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F912B840-8BC3-4EC0-AC94-9138C0E75A0B}|EmployeeLeavesManagement\\EmployeeLeavesManagement.csproj|solutionrelative:employeeleavesmanagement\\manager\\ileaverequestsmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F912B840-8BC3-4EC0-AC94-9138C0E75A0B}|EmployeeLeavesManagement\\EmployeeLeavesManagement.csproj|e:\\projects\\employeeleavesmanagement\\employeeleavesmanagement\\manager\\ileavetypesmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F912B840-8BC3-4EC0-AC94-9138C0E75A0B}|EmployeeLeavesManagement\\EmployeeLeavesManagement.csproj|solutionrelative:employeeleavesmanagement\\manager\\ileavetypesmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F912B840-8BC3-4EC0-AC94-9138C0E75A0B}|EmployeeLeavesManagement\\EmployeeLeavesManagement.csproj|e:\\projects\\employeeleavesmanagement\\employeeleavesmanagement\\dto\\leaverequests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F912B840-8BC3-4EC0-AC94-9138C0E75A0B}|EmployeeLeavesManagement\\EmployeeLeavesManagement.csproj|solutionrelative:employeeleavesmanagement\\dto\\leaverequests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Projects\\EmployeeLeavesManagement\\ClassLibrary1\\Migrations\\20250710113149_ThirdCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ClassLibrary1\\Migrations\\20250710113149_ThirdCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Projects\\EmployeeLeavesManagement\\ClassLibrary1\\Migrations\\20250710111604_SecondCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ClassLibrary1\\Migrations\\20250710111604_SecondCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96D31427-5066-46C0-8F08-73AAF3A4F017}|ClassLibrary1\\EmployeeLeavesManagement.Persistence.csproj|e:\\projects\\employeeleavesmanagement\\classlibrary1\\employeeleavesmanagement.persistence.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{96D31427-5066-46C0-8F08-73AAF3A4F017}|ClassLibrary1\\EmployeeLeavesManagement.Persistence.csproj|solutionrelative:classlibrary1\\employeeleavesmanagement.persistence.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96D31427-5066-46C0-8F08-73AAF3A4F017}|ClassLibrary1\\EmployeeLeavesManagement.Persistence.csproj|e:\\projects\\employeeleavesmanagement\\classlibrary1\\migrations\\20250711062906_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96D31427-5066-46C0-8F08-73AAF3A4F017}|ClassLibrary1\\EmployeeLeavesManagement.Persistence.csproj|solutionrelative:classlibrary1\\migrations\\20250711062906_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 23,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "E:\\Projects\\EmployeeLeavesManagement\\EmployeeLeavesManagement\\MappingProfiles\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "EmployeeLeavesManagement\\MappingProfiles\\MappingProfile.cs",
+              "ToolTip": "E:\\Projects\\EmployeeLeavesManagement\\EmployeeLeavesManagement\\MappingProfiles\\MappingProfile.cs*",
+              "RelativeToolTip": "EmployeeLeavesManagement\\MappingProfiles\\MappingProfile.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T08:50:43.555Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LoginRequests.cs",
+              "DocumentMoniker": "E:\\Projects\\EmployeeLeavesManagement\\EmployeeLeavesManagement\\Dto\\LoginRequests.cs",
+              "RelativeDocumentMoniker": "EmployeeLeavesManagement\\Dto\\LoginRequests.cs",
+              "ToolTip": "E:\\Projects\\EmployeeLeavesManagement\\EmployeeLeavesManagement\\Dto\\LoginRequests.cs",
+              "RelativeToolTip": "EmployeeLeavesManagement\\Dto\\LoginRequests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T06:50:04.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "authController.cs",
+              "DocumentMoniker": "E:\\Projects\\EmployeeLeavesManagement\\EmployeeLeavesManagement\\Controllers\\authController.cs",
+              "RelativeDocumentMoniker": "EmployeeLeavesManagement\\Controllers\\authController.cs",
+              "ToolTip": "E:\\Projects\\EmployeeLeavesManagement\\EmployeeLeavesManagement\\Controllers\\authController.cs",
+              "RelativeToolTip": "EmployeeLeavesManagement\\Controllers\\authController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwCQAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T06:48:20.305Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "20250711062906_InitialCreate.cs",
+              "DocumentMoniker": "E:\\Projects\\EmployeeLeavesManagement\\ClassLibrary1\\Migrations\\20250711062906_InitialCreate.cs",
+              "RelativeDocumentMoniker": "ClassLibrary1\\Migrations\\20250711062906_InitialCreate.cs",
+              "ToolTip": "E:\\Projects\\EmployeeLeavesManagement\\ClassLibrary1\\Migrations\\20250711062906_InitialCreate.cs",
+              "RelativeToolTip": "ClassLibrary1\\Migrations\\20250711062906_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T06:29:06.31Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "20250710113149_ThirdCreate.cs",
+              "DocumentMoniker": "E:\\Projects\\EmployeeLeavesManagement\\ClassLibrary1\\Migrations\\20250710113149_ThirdCreate.cs",
+              "RelativeDocumentMoniker": "ClassLibrary1\\Migrations\\20250710113149_ThirdCreate.cs",
+              "ToolTip": "E:\\Projects\\EmployeeLeavesManagement\\ClassLibrary1\\Migrations\\20250710113149_ThirdCreate.cs",
+              "RelativeToolTip": "ClassLibrary1\\Migrations\\20250710113149_ThirdCreate.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T11:31:49.132Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "20250710111604_SecondCreate.cs",
+              "DocumentMoniker": "E:\\Projects\\EmployeeLeavesManagement\\ClassLibrary1\\Migrations\\20250710111604_SecondCreate.cs",
+              "RelativeDocumentMoniker": "ClassLibrary1\\Migrations\\20250710111604_SecondCreate.cs",
+              "ToolTip": "E:\\Projects\\EmployeeLeavesManagement\\ClassLibrary1\\Migrations\\20250710111604_SecondCreate.cs",
+              "RelativeToolTip": "ClassLibrary1\\Migrations\\20250710111604_SecondCreate.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T11:16:04.706Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\Projects\\EmployeeLeavesManagement\\EmployeeLeavesManagement\\appsettings.json",
+              "RelativeDocumentMoniker": "EmployeeLeavesManagement\\appsettings.json",
+              "ToolTip": "E:\\Projects\\EmployeeLeavesManagement\\EmployeeLeavesManagement\\appsettings.json",
+              "RelativeToolTip": "EmployeeLeavesManagement\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-10T10:50:25.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LeaveTypesEntity.cs",
+              "DocumentMoniker": "E:\\Projects\\EmployeeLeavesManagement\\ClassLibrary1\\Entities\\LeaveTypesEntity.cs",
+              "RelativeDocumentMoniker": "ClassLibrary1\\Entities\\LeaveTypesEntity.cs",
+              "ToolTip": "E:\\Projects\\EmployeeLeavesManagement\\ClassLibrary1\\Entities\\LeaveTypesEntity.cs",
+              "RelativeToolTip": "ClassLibrary1\\Entities\\LeaveTypesEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T06:00:17.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "LeaveRequestsEntity.cs",
+              "DocumentMoniker": "E:\\Projects\\EmployeeLeavesManagement\\ClassLibrary1\\Entities\\LeaveRequestsEntity.cs",
+              "RelativeDocumentMoniker": "ClassLibrary1\\Entities\\LeaveRequestsEntity.cs",
+              "ToolTip": "E:\\Projects\\EmployeeLeavesManagement\\ClassLibrary1\\Entities\\LeaveRequestsEntity.cs",
+              "RelativeToolTip": "ClassLibrary1\\Entities\\LeaveRequestsEntity.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwBoAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T05:59:53.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "EmployeeEntity.cs",
+              "DocumentMoniker": "E:\\Projects\\EmployeeLeavesManagement\\ClassLibrary1\\Entities\\EmployeeEntity.cs",
+              "RelativeDocumentMoniker": "ClassLibrary1\\Entities\\EmployeeEntity.cs",
+              "ToolTip": "E:\\Projects\\EmployeeLeavesManagement\\ClassLibrary1\\Entities\\EmployeeEntity.cs",
+              "RelativeToolTip": "ClassLibrary1\\Entities\\EmployeeEntity.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAxwBwAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T05:59:25.459Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "EmployeeLeavesManagement.Persistence.csproj",
+              "DocumentMoniker": "E:\\Projects\\EmployeeLeavesManagement\\ClassLibrary1\\EmployeeLeavesManagement.Persistence.csproj",
+              "RelativeDocumentMoniker": "ClassLibrary1\\EmployeeLeavesManagement.Persistence.csproj",
+              "ToolTip": "E:\\Projects\\EmployeeLeavesManagement\\ClassLibrary1\\EmployeeLeavesManagement.Persistence.csproj",
+              "RelativeToolTip": "ClassLibrary1\\EmployeeLeavesManagement.Persistence.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-10T05:23:48.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "EmployeeLeavesDbContext.cs",
+              "DocumentMoniker": "E:\\Projects\\EmployeeLeavesManagement\\ClassLibrary1\\EmployeeLeavesDbContext.cs",
+              "RelativeDocumentMoniker": "ClassLibrary1\\EmployeeLeavesDbContext.cs",
+              "ToolTip": "E:\\Projects\\EmployeeLeavesManagement\\ClassLibrary1\\EmployeeLeavesDbContext.cs",
+              "RelativeToolTip": "ClassLibrary1\\EmployeeLeavesDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T05:23:44.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ILeaveTypesManager.cs",
+              "DocumentMoniker": "E:\\Projects\\EmployeeLeavesManagement\\EmployeeLeavesManagement\\Manager\\ILeaveTypesManager.cs",
+              "RelativeDocumentMoniker": "EmployeeLeavesManagement\\Manager\\ILeaveTypesManager.cs",
+              "ToolTip": "E:\\Projects\\EmployeeLeavesManagement\\EmployeeLeavesManagement\\Manager\\ILeaveTypesManager.cs",
+              "RelativeToolTip": "EmployeeLeavesManagement\\Manager\\ILeaveTypesManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T05:10:37.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LeaveTypesManager.cs",
+              "DocumentMoniker": "E:\\Projects\\EmployeeLeavesManagement\\EmployeeLeavesManagement\\Manager\\LeaveTypesManager.cs",
+              "RelativeDocumentMoniker": "EmployeeLeavesManagement\\Manager\\LeaveTypesManager.cs",
+              "ToolTip": "E:\\Projects\\EmployeeLeavesManagement\\EmployeeLeavesManagement\\Manager\\LeaveTypesManager.cs*",
+              "RelativeToolTip": "EmployeeLeavesManagement\\Manager\\LeaveTypesManager.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T05:09:59.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ILeaveRequestsManager.cs",
+              "DocumentMoniker": "E:\\Projects\\EmployeeLeavesManagement\\EmployeeLeavesManagement\\Manager\\ILeaveRequestsManager.cs",
+              "RelativeDocumentMoniker": "EmployeeLeavesManagement\\Manager\\ILeaveRequestsManager.cs",
+              "ToolTip": "E:\\Projects\\EmployeeLeavesManagement\\EmployeeLeavesManagement\\Manager\\ILeaveRequestsManager.cs",
+              "RelativeToolTip": "EmployeeLeavesManagement\\Manager\\ILeaveRequestsManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T05:09:33.559Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LeaveRequestsManager.cs",
+              "DocumentMoniker": "E:\\Projects\\EmployeeLeavesManagement\\EmployeeLeavesManagement\\Manager\\LeaveRequestsManager.cs",
+              "RelativeDocumentMoniker": "EmployeeLeavesManagement\\Manager\\LeaveRequestsManager.cs",
+              "ToolTip": "E:\\Projects\\EmployeeLeavesManagement\\EmployeeLeavesManagement\\Manager\\LeaveRequestsManager.cs*",
+              "RelativeToolTip": "EmployeeLeavesManagement\\Manager\\LeaveRequestsManager.cs*",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAYwBUAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T05:09:01.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IEmployeeManager.cs",
+              "DocumentMoniker": "E:\\Projects\\EmployeeLeavesManagement\\EmployeeLeavesManagement\\Manager\\IEmployeeManager.cs",
+              "RelativeDocumentMoniker": "EmployeeLeavesManagement\\Manager\\IEmployeeManager.cs",
+              "ToolTip": "E:\\Projects\\EmployeeLeavesManagement\\EmployeeLeavesManagement\\Manager\\IEmployeeManager.cs",
+              "RelativeToolTip": "EmployeeLeavesManagement\\Manager\\IEmployeeManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T04:16:03.716Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmployeeManager.cs",
+              "DocumentMoniker": "E:\\Projects\\EmployeeLeavesManagement\\EmployeeLeavesManagement\\Manager\\EmployeeManager.cs",
+              "RelativeDocumentMoniker": "EmployeeLeavesManagement\\Manager\\EmployeeManager.cs",
+              "ToolTip": "E:\\Projects\\EmployeeLeavesManagement\\EmployeeLeavesManagement\\Manager\\EmployeeManager.cs*",
+              "RelativeToolTip": "EmployeeLeavesManagement\\Manager\\EmployeeManager.cs*",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAEMAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T04:15:26.161Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "LeaveTypes.cs",
+              "DocumentMoniker": "E:\\Projects\\EmployeeLeavesManagement\\EmployeeLeavesManagement\\Dto\\LeaveTypes.cs",
+              "RelativeDocumentMoniker": "EmployeeLeavesManagement\\Dto\\LeaveTypes.cs",
+              "ToolTip": "E:\\Projects\\EmployeeLeavesManagement\\EmployeeLeavesManagement\\Dto\\LeaveTypes.cs",
+              "RelativeToolTip": "EmployeeLeavesManagement\\Dto\\LeaveTypes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T04:08:49.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "LeaveRequests.cs",
+              "DocumentMoniker": "E:\\Projects\\EmployeeLeavesManagement\\EmployeeLeavesManagement\\Dto\\LeaveRequests.cs",
+              "RelativeDocumentMoniker": "EmployeeLeavesManagement\\Dto\\LeaveRequests.cs",
+              "ToolTip": "E:\\Projects\\EmployeeLeavesManagement\\EmployeeLeavesManagement\\Dto\\LeaveRequests.cs",
+              "RelativeToolTip": "EmployeeLeavesManagement\\Dto\\LeaveRequests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T04:08:19.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "E:\\Projects\\EmployeeLeavesManagement\\EmployeeLeavesManagement\\Dto\\Employee.cs",
+              "RelativeDocumentMoniker": "EmployeeLeavesManagement\\Dto\\Employee.cs",
+              "ToolTip": "E:\\Projects\\EmployeeLeavesManagement\\EmployeeLeavesManagement\\Dto\\Employee.cs",
+              "RelativeToolTip": "EmployeeLeavesManagement\\Dto\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T04:07:33.249Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "leavetypesController.cs",
+              "DocumentMoniker": "E:\\Projects\\EmployeeLeavesManagement\\EmployeeLeavesManagement\\Controllers\\leavetypesController.cs",
+              "RelativeDocumentMoniker": "EmployeeLeavesManagement\\Controllers\\leavetypesController.cs",
+              "ToolTip": "E:\\Projects\\EmployeeLeavesManagement\\EmployeeLeavesManagement\\Controllers\\leavetypesController.cs",
+              "RelativeToolTip": "EmployeeLeavesManagement\\Controllers\\leavetypesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwDQAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T03:54:19.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "leaverequestsController.cs",
+              "DocumentMoniker": "E:\\Projects\\EmployeeLeavesManagement\\EmployeeLeavesManagement\\Controllers\\leaverequestsController.cs",
+              "RelativeDocumentMoniker": "EmployeeLeavesManagement\\Controllers\\leaverequestsController.cs",
+              "ToolTip": "E:\\Projects\\EmployeeLeavesManagement\\EmployeeLeavesManagement\\Controllers\\leaverequestsController.cs",
+              "RelativeToolTip": "EmployeeLeavesManagement\\Controllers\\leaverequestsController.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAmwCAAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T03:53:42.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "employeesController.cs",
+              "DocumentMoniker": "E:\\Projects\\EmployeeLeavesManagement\\EmployeeLeavesManagement\\Controllers\\employeesController.cs",
+              "RelativeDocumentMoniker": "EmployeeLeavesManagement\\Controllers\\employeesController.cs",
+              "ToolTip": "E:\\Projects\\EmployeeLeavesManagement\\EmployeeLeavesManagement\\Controllers\\employeesController.cs",
+              "RelativeToolTip": "EmployeeLeavesManagement\\Controllers\\employeesController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAsAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T03:53:03.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Projects\\EmployeeLeavesManagement\\EmployeeLeavesManagement\\Program.cs",
+              "RelativeDocumentMoniker": "EmployeeLeavesManagement\\Program.cs",
+              "ToolTip": "E:\\Projects\\EmployeeLeavesManagement\\EmployeeLeavesManagement\\Program.cs",
+              "RelativeToolTip": "EmployeeLeavesManagement\\Program.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAACYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T03:51:07.376Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

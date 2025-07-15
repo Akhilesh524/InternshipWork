@@ -1,0 +1,14 @@
+E:\Projects\EmployeeLeavesManagement\ClassLibrary1\bin\Debug\net8.0\EmployeeLeavesManagement.Persistence.deps.json
+E:\Projects\EmployeeLeavesManagement\ClassLibrary1\bin\Debug\net8.0\EmployeeLeavesManagement.Persistence.runtimeconfig.json
+E:\Projects\EmployeeLeavesManagement\ClassLibrary1\bin\Debug\net8.0\EmployeeLeavesManagement.Persistence.dll
+E:\Projects\EmployeeLeavesManagement\ClassLibrary1\bin\Debug\net8.0\EmployeeLeavesManagement.Persistence.pdb
+E:\Projects\EmployeeLeavesManagement\ClassLibrary1\obj\Debug\net8.0\EmployeeLeavesManagement.Persistence.csproj.AssemblyReference.cache
+E:\Projects\EmployeeLeavesManagement\ClassLibrary1\obj\Debug\net8.0\EmployeeLeavesManagement.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\EmployeeLeavesManagement\ClassLibrary1\obj\Debug\net8.0\EmployeeLeavesManagement.Persistence.AssemblyInfoInputs.cache
+E:\Projects\EmployeeLeavesManagement\ClassLibrary1\obj\Debug\net8.0\EmployeeLeavesManagement.Persistence.AssemblyInfo.cs
+E:\Projects\EmployeeLeavesManagement\ClassLibrary1\obj\Debug\net8.0\EmployeeLeavesManagement.Persistence.csproj.CoreCompileInputs.cache
+E:\Projects\EmployeeLeavesManagement\ClassLibrary1\obj\Debug\net8.0\EmployeeLeavesManagement.Persistence.dll
+E:\Projects\EmployeeLeavesManagement\ClassLibrary1\obj\Debug\net8.0\refint\EmployeeLeavesManagement.Persistence.dll
+E:\Projects\EmployeeLeavesManagement\ClassLibrary1\obj\Debug\net8.0\EmployeeLeavesManagement.Persistence.pdb
+E:\Projects\EmployeeLeavesManagement\ClassLibrary1\obj\Debug\net8.0\EmployeeLeavesManagement.Persistence.genruntimeconfig.cache
+E:\Projects\EmployeeLeavesManagement\ClassLibrary1\obj\Debug\net8.0\ref\EmployeeLeavesManagement.Persistence.dll
