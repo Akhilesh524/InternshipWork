@@ -1,0 +1,49 @@
+<!-- <h2 class="mb-4">Employee Profiles</h2>
+
+<div *ngIf="employees.length === 0">
+  <p>No employee data found.</p>
+</div>
+
+<div *ngFor="let emp of employees" class="card mb-3 shadow-sm p-3">
+  <div class="card-body">
+    <h5 class="card-title text-primary">👤 {{ emp.firstName }} {{ emp.lastName }}</h5>
+    <p class="card-text mb-1">
+      <strong>🆔 Employee ID:</strong> {{ emp.id }}
+    </p>
+    <p class="card-text">
+      <strong>📧 Email:</strong> {{ emp.email || 'N/A' }}
+    </p>
+    <button class="btn btn-outline-primary btn-sm">Apply Leave</button>
+  </div>
+</div> -->
+
+<!-- employee-list.component.html -->
+<div>
+  <button (click)="openCreateForm()">+ Create Employee</button>
+</div>
+
+<!-- Show Create Form Conditionally -->
+<div *ngIf="showCreateForm" class="form-container">
+  <h3>Create New Employee</h3>
+  <form (ngSubmit)="createEmployee()" #employeeForm="ngForm">
+    <input type="text" placeholder="First Name" [(ngModel)]="newEmployee.firstName" name="firstName" required>
+    <input type="text" placeholder="Last Name" [(ngModel)]="newEmployee.lastName" name="lastName" required>
+    <input type="text" placeholder="Email" [(ngModel)]="newEmployee.email" name="email" required>
+    <!-- Add more fields as per your model -->
+
+    <button type="submit" [disabled]="employeeForm.invalid">Submit</button>
+    <button type="button" (click)="closeCreateForm()">Cancel</button>
+  </form>
+</div>
+
+<!-- Show List -->
+<ul>
+  <li *ngFor="let emp of employees">
+    {{ emp.firstName }} {{ emp.lastName }} ({{ emp.email }})
+  </li>
+</ul>
+
+
+
+
+

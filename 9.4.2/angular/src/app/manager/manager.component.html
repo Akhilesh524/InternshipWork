@@ -1,0 +1,36 @@
+<div class="container mt-4">
+  <h2 class="mb-3">Leave Requests</h2>
+
+  <table class="table table-bordered table-striped">
+    <thead class="thead-dark">
+      <tr>
+        <th>Employee ID</th>
+        <th>Leave Type ID</th>
+        <th>From Date</th>
+        <th>To Date</th>
+        <th>Status</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr *ngFor="let request of leaveRequests">
+        <td>{{ request.employeeId }}</td>
+        <td>{{ request.leaveTypeId }}</td>
+        <td>{{ request.fromTo | date: 'yyyy-MM-dd' }}</td>
+        <td>{{ request.toDate | date: 'yyyy-MM-dd' }}</td>
+        <td>
+          <span [ngSwitch]="request.status">
+            <span *ngSwitchCase="0" class="badge bg-warning text-dark">Pending</span>
+            <span *ngSwitchCase="1" class="badge bg-success">Approved</span>
+            <span *ngSwitchCase="2" class="badge bg-danger">Rejected</span>
+            <span *ngSwitchDefault class="badge bg-secondary">Unknown</span>
+          </span>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+
+  <div *ngIf="leaveRequests.length === 0" class="text-muted">
+    No leave requests found.
+  </div>
+</div>
+

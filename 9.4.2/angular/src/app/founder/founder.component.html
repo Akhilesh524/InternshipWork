@@ -1,0 +1,32 @@
+<div class="container">
+  <h2>👥 Employees</h2>
+  <ul *ngIf="employees.length > 0; else noEmployees">
+    <li *ngFor="let emp of employees">
+      {{ emp.firstName }} {{ emp.lastName }} ({{ emp.emailAddress }})
+    </li>
+  </ul>
+  <ng-template #noEmployees><p>No employee data available.</p></ng-template>
+
+  <hr />
+
+  <h2>📝 Leave Requests</h2>
+  <ul *ngIf="leaveRequests.length > 0; else noRequests">
+    <li *ngFor="let leave of leaveRequests">
+      {{ leave.employeeName }} requested {{ leave.leaveTypeName }} from {{ leave.startDate }} to {{ leave.endDate }} - Status: {{ leave.status }}
+    </li>
+  </ul>
+  <ng-template #noRequests><p>No leave requests found.</p></ng-template>
+
+  <hr />
+
+  <h2>📄 Leave Types</h2>
+  <ul *ngIf="leaveTypes.length > 0; else noTypes">
+    <li *ngFor="let type of leaveTypes">
+      {{ type.name }} - {{ type.defaultDays }} days
+    </li>
+  </ul>
+  <ng-template #noTypes><p>No leave types available.</p></ng-template>
+</div>
+
+
+
