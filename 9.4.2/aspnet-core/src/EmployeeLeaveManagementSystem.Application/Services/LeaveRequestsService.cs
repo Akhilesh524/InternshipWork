@@ -46,7 +46,7 @@ namespace EmployeeLeaveManagementSystem.Services
         [AbpAuthorize(PermissionNames.LeaveRequest_View_All, PermissionNames.LeaveRequest_View_Own)]
         public async Task<List<LeaveRequestsDto>> GetAllLeaveRequests()
         {
-            var allleave = await _repo.GetAllListAsync();
+            var allleave = await _repo.GetAllAsync();
             return _mapper.Map<List<LeaveRequestsDto>>(allleave);
         }
 

@@ -8,8 +8,9 @@ namespace EmployeeLeaveManagementSystem.enums
 {
     public enum LeaveRequests
     {
-      Approved=0,
-      Rejected=1,
-      Cancelled=2
+        Pending = 0,    // add this
+        Approved = 1,
+        Rejected = 2,
+        Cancelled = 3
     }
 }
